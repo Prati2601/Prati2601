@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prati2601
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning Python| Data Science
+- 🌱 I’m currently learning Python | Power BI | Data Science
 
 
 <!---
